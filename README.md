@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jimit Mewada 👋
 
 ## Software Engineer | MERN Stack Developer
 
@@ -34,9 +34,8 @@ Welcome to my GitHub profile! I’m a passionate software engineer with expertis
 ---
 
 ### 📫 Get in Touch:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio-website](https://your-portfolio.com)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/jimit-mewada-449781208/)
+- **Portfolio**: [your-portfolio-website](https://jimitmewada-portfolio.vercel.app/)
 
 ---
 
