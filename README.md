@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I’m a passionate software engineer with expertis
 
 ### 🚀 Technologies & Tools:
 - **Languages**: JavaScript (ES6+), HTML, CSS, TypeScript
-- **Frontend**: React.js, Redux, Next.js, Bootstrap, Material UI
-- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, NextJs, Redux, Next.js, Bootstrap, Material UI
+- **Backend**: Node.js, Express.js, NestJs
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub, GitLab
 - **Cloud & Deployment**: AWS, Heroku, Netlify, Docker, Kubernetes
@@ -27,15 +27,16 @@ Welcome to my GitHub profile! I’m a passionate software engineer with expertis
 ---
 
 ### 🔭 Currently Working On:
-- Building a [project name or idea] using React and Node.js.
+- Building a CRM product using React and Node.js etc.
 - Exploring TypeScript and integrating it into MERN stack projects.
 - Learning more about DevOps, Docker, and Kubernetes for better deployment practices.
+- learning and exploring AI and machine learning technologies.
 
 ---
 
 ### 📫 Get in Touch:
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/jimit-mewada-449781208/)
-- **Portfolio**: [your-portfolio-website](https://jimitmewada-portfolio.vercel.app/)
+- **LinkedIn**: [Jimit-Mewada-Profile](https://www.linkedin.com/in/jimit-mewada-449781208/)
+- **Portfolio**: [Jimit-Mewada-Portfolio](https://jimitmewada-portfolio.vercel.app/)
 
 ---
 
